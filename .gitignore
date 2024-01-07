@@ -1,0 +1,9 @@
+coverage.html
+.DS_Store
+build
+build/*
+tmp
+tmp/*
+build-errors.log
+bin
+bin/*
